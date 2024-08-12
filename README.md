@@ -1,4 +1,4 @@
-# Skin-Disease-Detection
+# Skin-Disease-Detection   
 
 ## **Project Overview** ##
 **Develop an AI-powered system that uses machine learning to detect skin diseases from images provided by users. The system will analyze the images, provide a description of the potential disease, offer recommendations for nearby dermatologists, and suggest if the disease requires isolation or special care measures.**
