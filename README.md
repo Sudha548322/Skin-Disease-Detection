@@ -1,7 +1,7 @@
 # Skin-Disease-Detection   
 
 ## **Project Overview** ##
-**Develop an AI-powered system that uses machine learning to detect skin diseases from images provided by users. The system will analyze the images, provide a description of the potential disease, offer recommendations for nearby dermatologists, and suggest if the disease requires isolation or special care measures.**
+**Develop an AI-powered system that uses machine learning to detect skin diseases from images provided by users. The system will analyze the images, provide a description of the potential disease offer recommendations for nearby dermatologists, and suggest if the disease requires isolation or special care measures.**
 
 ![image](https://github.com/shireeshatn/Skin-Disease-Detection/assets/146500562/574580d0-7045-4505-b1b8-b1f8685e41d3)
 
@@ -38,5 +38,6 @@
     ```bash
     pip install -r requirements.txt
     ```
+
 
 ## Usage Examples
